@@ -18,5 +18,6 @@ public class Product {
     private Double price;
     private String category;
     private String unit;
-    private String chetan;
+    private String chaitan;
+
 }
